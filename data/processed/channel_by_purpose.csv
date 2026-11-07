@@ -1,0 +1,14 @@
+loan_purpose_label,channel,applications,abandonment_rate_pct
+cash-out refinancing,retail,32567,27.3
+cash-out refinancing,correspondent,3144,18.1
+cash-out refinancing,broker,5555,16.4
+home improvement,retail,20534,13.6
+home improvement,broker,931,3.9
+home purchase,retail,75056,19.9
+home purchase,broker,25091,13.0
+home purchase,correspondent,9876,12.7
+other purpose,retail,27676,18.7
+other purpose,broker,1703,5.9
+refinancing,retail,29746,24.9
+refinancing,broker,7952,12.6
+refinancing,correspondent,4646,12.4
